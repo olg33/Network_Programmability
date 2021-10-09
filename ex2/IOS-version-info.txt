@@ -1,5 +1,5 @@
 Inventory of IOS XE Versions installed in Backbone Routers
 --------------------------------------------------------------------------
-GE_HUB1_INT_HRT1.MIR 10.214.8.2 Cisco IOS XE Software, Version 16.09.02
-GE_HUB1_INT_HRT2.MIR 10.214.8.3 Cisco IOS XE Software, Version 16.08.01
+GE_HUB1_INT_HRT1.MIR   10.214.8.2   Cisco IOS XE Software, Version 16.09.02
+GE_HUB1_INT_HRT2.MIR   10.214.8.3   Cisco IOS XE Software, Version 16.08.01
 --------------------------------------------------------------------------

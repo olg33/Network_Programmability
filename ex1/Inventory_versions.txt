@@ -1,0 +1,1 @@
+Host: GE_HUB1_INT_HRT2.MIR IP: 10.214.8.3  Version: Cisco IOS XE Software, Version 16.08.01

@@ -1,0 +1,5 @@
+Inventory of NXOS Versions installed in Backbone Switches
+--------------------------------------------------------------------------
+GE_HUB1_INT_SW1.MIR#    10.214.8.4     NXOS: version 7.0(3)I7(5a)
+GE_HUB1_INT_SW2.MIR#    10.214.8.5     NXOS: version 7.0(3)I7(5a)
+--------------------------------------------------------------------------
